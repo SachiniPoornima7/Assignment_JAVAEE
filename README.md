@@ -3,6 +3,6 @@ Welcome to the eCommerce Application repository! This project is a fully-functio
 
 
 
-image 
+
 
 ![5f177f8f-f14e-4a6e-a016-58d33533a5e4](https://github.com/user-attachments/assets/078e8487-f47f-4f77-9972-feb9e35f9db8)
